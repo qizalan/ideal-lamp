@@ -36,7 +36,8 @@ There will be occasional minigames based on certain choices.
 This is still a school project, and school projects have criteria. This section explains how the project mirrors the important characters, symbols, and themes from *Delirium*.
 
 ### Characters
-Placeholder
+In this game, the player is able to make choices which will determine their life. Characteristics and characters from the story of *Delirium* are present in this, however ultimately, it will be up to the player to decide the type of person they would like to be.
+TODO
 
 ### Symbols
 Placeholder
