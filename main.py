@@ -281,8 +281,8 @@ def gamePanic():
   
 def main():
   gameSetup()
-  # gameIntroduction()
-  # gameExposition()
+  gameIntroduction()
+  gameExposition()
   gamePanic()
 
 if __name__ == '__main__':
