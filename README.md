@@ -33,14 +33,7 @@ You'll figure out how to play as the game progresses ;) simply follow the list o
 There will be occasional minigames based on certain choices.
 
 ## Mirroring Information
-This is still a school project, and school projects have criteria. This section explains how the project mirrors the important characters, symbols, and themes from *Delirium*.
-
-### Characters
-In this game, the player is able to make choices which will determine their life. Characteristics and characters from the story of *Delirium* are present in this, however ultimately, it will be up to the player to decide the type of person they would like to be.
-TODO
-
-### Symbols
-Placeholder
+This is still a school project, and school projects have criteria. This section explains how the project mirrors the important theme from *Delirium*.
 
 ### Themes
 Throughout the story of *Delirium*, Lena Haloway is constantly bombarded by misinformation. This is the main theme of the story, with smaller themes that additionally build towards this main theme.  
