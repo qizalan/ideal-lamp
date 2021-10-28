@@ -38,3 +38,5 @@ This is still a school project, and school projects have criteria. This section 
 Throughout the story of *Delirium*, Lena Haloway is constantly bombarded by misinformation. This is the main theme of the story, with smaller themes that additionally build towards this main theme.  
 *Delirium - The Game* aims to target this theme by subtly sending the player misinformation. It's the player's job to determine the truths and lies the game provides.  
 The goal is to make it so the player does not know if the information they were presented with was genuinely real or not. Only once they near the end, should they slowly realize that not all was what it seemed.
+
+By trying to persuade the player into leading a normal life, the player falls into a less satisfying life than going out of the social norms and misinformation.
