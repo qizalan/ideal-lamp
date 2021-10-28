@@ -29,7 +29,7 @@ def gameIntroduction():
   func.tD('For the protection of the people, the government closed all borders.')
   func.tD('For the protection of the people, the citizens were to move into protected cities.')
   func.tD('For the protection of the people, the government worked on a cure.')
-  func.tD('The cure for amor delieria nervosa.')
+  func.tD('The cure for amor deliria nervosa.')
   func.tD('Over years of experimentation, the government found a solution.')
   func.tD('The cure was for those over the age of 18.')
   func.tD('Getting the cure at a younger age would cause unwanted side-effects.')
@@ -72,7 +72,7 @@ def gamePanic():
     Gets into a chase. Meets opposite gender from earlier. Chase difficulty & catch punishment based on previous choices
   '''
   gameScore = 0
-
+  
   # Evaluations
   eScore = 0
   func.tD(f'Hello {playerName}, welcome to evaluations.')
@@ -166,10 +166,10 @@ def gamePanic():
   func.tI('"Umm, not really."')
   func.tI('"But seriously, it\'s great music. You should listen to it."')
   ans = func.yNQ('Will you listen to this music?')
-  if ( ans.lower() == 'y' or ans.lower() == 'yes' ):
+  if ( ans == 'y' or ans == 'yes' ):
     gameScore -= 3
     func.tI('You and your friend spend time enjoying Always Gonna Let Your Down by Yeltsa Kcir.')
-  elif ( ans.lower() == 'n' or ans.lower() == 'no' ):
+  elif ( ans == 'n' or ans == 'no' ):
     gameScore += 3
     func.tI('Nope, not worth the risk.')
   func.clear()
@@ -281,8 +281,8 @@ def gamePanic():
   
 def main():
   gameSetup()
-  gameIntroduction()
-  gameExposition()
+  # gameIntroduction()
+  # gameExposition()
   gamePanic()
 
 if __name__ == '__main__':

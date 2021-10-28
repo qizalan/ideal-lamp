@@ -15,7 +15,7 @@ class func:
         print('You need to provide a yes/no answer!')
         return func.yNQ(q)
     else:
-      return ans
+      return ans.lower()
   def mCQ(q, opts):
     ans = input(f'{q}\nOptions: {opts}\n> ')
     if ( ans not in opts ):
