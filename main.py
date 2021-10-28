@@ -52,8 +52,6 @@ def gameExposition():
 
   func.tD('Delirium')
   func.tD('The Game')
-  func.tD('Panic Monster Edition')
-  func.tD('"So much to code" - Alan Qi')
   func.clear()
 
 # Panic Monster Game

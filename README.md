@@ -1,5 +1,4 @@
 # *Delirium - The Game*
-A student created a game for a student project assigned by the student's teacher because teachers assign projects. Shocking, I know.
 
 ## About
 Welcome to *Delirium - The Game*. This is a text-based game based off of the story *Delirium* by Lauren Oliver.  
